@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "sdafsdfsdafsd",
+      "lastName": "sfsdfsdfsdfsdfsd",
+      "email": "fsdfsd@gmail.com",
+      "department": "department",
+      "address": "eefsedfsdfsd",
+      "phnumber": 13213232,
+      "description": "dsfsdfsdfsdfsd",
+      "password": "1234567",
+      "confpassword": "1234567",
+      "status": ""
+    }
+  ]
+}
